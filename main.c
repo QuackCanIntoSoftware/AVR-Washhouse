@@ -18,7 +18,7 @@
 
 
 #define ALIVE_LOOP_PERIOD		1000
-#define CHECK_LOOP_COUNT		(uint8_t) 3
+#define CHECK_LOOP_COUNT		(uint8_t) 60
 #define HISTERESIS		5U
 
 #define Std_RetVal		uint8_t
